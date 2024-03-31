@@ -1637,7 +1637,7 @@ main .carousel-slide img {
   margin: 50px auto;
   display: flex;
   flex-direction: column;
-  background-color: #D9AA39;
+  background-color: #052742;
   background-size: cover;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 40px;
@@ -1750,7 +1750,7 @@ main .carousel-slide img {
     margin: 50px auto;
     display: flex;
     flex-direction: column;
-    background-image: url(assets/bg\ form.png);
+    background-color: #052742;
     background-size: cover;
     padding: 40px;
     border-radius: 20px;

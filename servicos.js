@@ -49,6 +49,11 @@ const servicos = [
         servico: 'Crédito com Garantia',
         texto: `Precisando de dinheiro? Aqui temos <strong>créditos com garantia de veículo e imóvel</strong> com as <strong>melhores taxas</strong>!`
     },
+    {
+        imagem: `//img.icons8.com/ios/100/broom.png`,
+        servico: 'Limpa Nome',
+        texto: `O limpa nome é um serviço onde todas as suas <strong>dívidas serão colocadas em status de sigilo total</strong> durante 12 meses, elevando seu Score e <strong>facilitando aprovações.`
+    },
 ];
 
 for (const servico of servicos) {
